@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("NerfBotGrenades")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("https://github.com/Lacyway/NerfBotGrenades")]
 [assembly: AssemblyProduct("NerfBotGrenades.Properties")]
 [assembly: AssemblyCopyright("© 2024 Lacyway")]
 [assembly: AssemblyTrademark("")]
