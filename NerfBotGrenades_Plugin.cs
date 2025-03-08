@@ -4,7 +4,7 @@ using BepInEx.Logging;
 
 namespace NerfBotGrenades
 {
-	[BepInPlugin("com.lacyway.nbg", "NerfBotGrenades", "1.0.0")]
+	[BepInPlugin("com.lacyway.nbg", "NerfBotGrenades", "1.1.0")]
 	internal class NerfBotGrenades_Plugin : BaseUnityPlugin
 	{
 		internal static ManualLogSource PluginLogger;
